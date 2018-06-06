@@ -42,7 +42,7 @@ http://www.codeblocks.org/downloads/26
 	
 	20. Open 'game.cpp' to CodeBlocks and try to compile it.
 
-# 3. Change The Titles, Colors
+# 3. Change The Titles, Colors or Add a Game
 
         I have created many comments so changing the code shall be easiest if necessary
 	
