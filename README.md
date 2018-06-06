@@ -42,7 +42,13 @@ http://www.codeblocks.org/downloads/26
 	
 	20. Open 'game.cpp' to CodeBlocks and try to compile it.
 
-		
+# 3. Change The Titles, Colors
+
+        I have created many comments so changing the code shall be easiest if necessary
+	
+	also check out this site for more help on modules of graphics.h
+	
+	https://www.programmingsimplified.com/c/graphics.h
 
  
 	
